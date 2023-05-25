@@ -1,5 +1,6 @@
 # Moaney-SelfBot
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLdFjBj1EB6L98Ob7QfUv462RW6q6MAslidrCsp7jDs4qM3n-W7D5Y_Umn0Tui3vTmIE&usqp=CAU
+![image](https://github.com/overvalue/Moaney-SelfBot/assets/121876198/0add3b42-dbb5-4e9e-8f3b-54c7d30aaeab)
+____________________________________________________________________________________________________________
  # Features
  1.) Crypto Commands 
  2.) Fast to use
