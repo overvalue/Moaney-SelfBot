@@ -5,7 +5,12 @@ ________________________________________________________________________________
  1.) Crypto Commands 
 
  2.) Fast to use
+ 
  3.) Easy setup
+ 
  4.) Change Your Status
+ 
  5.) Misc Commands
+ 
+ 6.) Works on repl.it
  
